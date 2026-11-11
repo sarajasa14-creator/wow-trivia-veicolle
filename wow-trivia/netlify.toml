@@ -1,0 +1,3 @@
+# Staattinen sivu: ei build-komentoa, julkaistaan repon juuri sellaisenaan.
+[build]
+  publish = "."
